@@ -1,0 +1,4 @@
+Recipients=recipient@gmail.com
+Store=vbarra
+Subject=SAFT com anexo
+Message=ee
